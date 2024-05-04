@@ -1,5 +1,6 @@
 # SQL-EPICODE-PROGETTO-BUILD-WEEK
-DI SEGUITO LA TRACCIA DELLA BUILD WEEK.
+NELLA SETTIMANA FINALE DEL MODULO DI SQL SIAMO STATI DIVISI IN GRUPPI ED ABBIAMO LAVORATO SU UN PROGETTO. ERO TEAM LEADER DEL TEAM ARAGORN, SIAMO RIUSCITI A LAVORARE TUTTI INSIEME COLLABORANDO DALL'INIZIO ALLA FINE DEL PROGETTO E NEGLI ALLEGATI SI PUO' TROVARE IL RISULTATO DI QUANTO SIAMO RIUSCITI A FARE. DI SEGUITO LA TRACCIA DELLO STESSO.
+
 LET’S GET DOWN TO BUSINESS!
 Siete stati assunti! Avete un senior di riferimento che vi guida! Ma si è ammalato. Avete una settimana, senza di lui, per creare un DB che permetta alla VendiCose SpA, famosissima società che gestisce supermercati, di gestire il flusso degli ordini per i magazzini e i punti vendita ad essi associati.
 Cosa sapete?
